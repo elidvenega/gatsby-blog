@@ -8,7 +8,7 @@ const Contact = () => {
       <p>Message me if you want a gatsby website</p>
       <p>
         My twitter{" "}
-        <a href="https://twitter.com/elid_venega" target="_blank">
+        <a href="https://twitter.com/elid_venega" rel='noreferrer' target='_blank'>
           @elid_venega
         </a>
       </p>
